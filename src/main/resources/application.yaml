@@ -1,0 +1,6 @@
+ktor:
+    application:
+        modules:
+            - f5.ApplicationKt.module
+    deployment:
+        port: 8080
